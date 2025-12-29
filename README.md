@@ -2,6 +2,12 @@
 
 A modern, interactive 3D visualization dashboard for Hitech City, Hyderabad. Built with React, TypeScript, MapLibre GL, and featuring real-time data visualizations, local AI chat assistance, and comprehensive analytics. **No API keys required!**
 
+## Live Demo
+
+**[View Live Dashboard](https://hitech-3-d-visualisation.vercel.app/)**
+
+Experience the interactive 3D visualization, AI assistant, and data analytics in action!
+
 ## Features
 
 - **3D Interactive Map**: Explore Hitech City with immersive 3D terrain and buildings
@@ -110,7 +116,7 @@ The application includes visualization for major landmarks:
 - **Vite** - Build tool
 - **MapLibre GL** - Free 3D mapping (no token required!)
 - **Recharts** - Data visualization
-- **Google Gemini AI** - AI chat assistant
+- **Local AI Knowledge Base** - AI chat assistant (no API needed)
 - **Tailwind CSS** - Styling
 
 ## Project Structure
@@ -189,6 +195,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 For issues and questions:
 - Open an issue on GitHub
 - Check the [DEPLOYMENT.md](./DEPLOYMENT.md) guide
+- Visit the [live dashboard](https://hitech-3-d-visualisation.vercel.app/) to see it in action
 
 ---
 
